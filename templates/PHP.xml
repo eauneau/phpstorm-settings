@@ -86,4 +86,9 @@
       <option name="PHP String Literal" value="false" />
     </context>
   </template>
+  <template name="dbm" value="$core-&gt;dbm-&gt;" description="Core dbm" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
