@@ -72,4 +72,18 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="qfm" value="$core-&gt;dbm-&gt;queryAndFetch($QUERY$);" description="Query and fetch (master" toReformat="false" toShortenFQNames="true">
+    <variable name="QUERY" expression="" defaultValue="''" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="qfam" value="$core-&gt;dbm-&gt;queryAndFetchAll($QUERY$);" description="Query and fetch all (master)" toReformat="false" toShortenFQNames="true">
+    <variable name="QUERY" expression="" defaultValue="''" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+      <option name="PHP Comment" value="false" />
+      <option name="PHP String Literal" value="false" />
+    </context>
+  </template>
 </templateSet>
