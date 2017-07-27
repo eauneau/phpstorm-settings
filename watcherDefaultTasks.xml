@@ -19,7 +19,7 @@
         </array>
       </option>
       <option name="outputFromStdout" value="true" />
-      <option name="program" value="/opt/local/bin/lessc" />
+      <option name="program" value="/usr/local/lib/node_modules/less/bin/lessc" />
       <option name="scopeName" value="Less" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$FileDir$" />
