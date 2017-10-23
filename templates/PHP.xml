@@ -91,4 +91,9 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="dbq" value="$query = '';&#10;$core-&gt;dbm-&gt;query($query);" description="Query master" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
