@@ -2,6 +2,9 @@
   <CssCodeStyleSettings>
     <option name="BRACE_PLACEMENT" value="1" />
   </CssCodeStyleSettings>
+  <PHPCodeStyleSettings>
+    <option name="NAMESPACE_BRACE_STYLE" value="2" />
+  </PHPCodeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="BRACE_STYLE" value="2" />
     <option name="METHOD_BRACE_STYLE" value="2" />
@@ -20,6 +23,7 @@
   <codeStyleSettings language="PHP">
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="BRACE_STYLE" value="2" />
+    <option name="LAMBDA_BRACE_STYLE" value="2" />
     <option name="ELSE_ON_NEW_LINE" value="true" />
     <option name="CATCH_ON_NEW_LINE" value="true" />
     <option name="FINALLY_ON_NEW_LINE" value="true" />
