@@ -7,7 +7,7 @@
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.less" />
+    <option name="FILE_MASK" value="*.*" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -24,7 +24,6 @@
       <mask>*.ph</mask>
       <mask>*.php</mask>
       <mask>*.l</mask>
-      <mask>*.*</mask>
       <mask>*.</mask>
       <mask>*.le</mask>
       <mask>*.les</mask>
@@ -33,6 +32,7 @@
       <mask>*.less,*.p</mask>
       <mask>*.less,*.php</mask>
       <mask>*.less</mask>
+      <mask>*.*</mask>
     </recentFileMasks>
   </component>
 </application>
