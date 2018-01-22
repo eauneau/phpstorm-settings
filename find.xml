@@ -1,15 +1,13 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*php" />
+    <option name="FILE_MASK" value="*.*" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -25,7 +23,6 @@
       <mask>*.less,*</mask>
       <mask>*.less,*.p</mask>
       <mask>*.less,*.php</mask>
-      <mask>*.*</mask>
       <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
@@ -33,10 +30,11 @@
       <mask>*.les</mask>
       <mask>*.less</mask>
       <mask>*.js</mask>
-      <mask>*.</mask>
-      <mask>*</mask>
       <mask>*ph</mask>
       <mask>*php</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.*</mask>
     </recentFileMasks>
   </component>
 </application>
