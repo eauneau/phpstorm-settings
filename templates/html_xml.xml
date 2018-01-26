@@ -6,7 +6,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="cfx" value="&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="cfx" value="&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
       <option name="PHP" value="true" />
