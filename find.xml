@@ -9,9 +9,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*less" />
     <recentFileMasks>
-      <mask>*.properties</mask>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
@@ -32,13 +31,16 @@
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
-      <mask>*.</mask>
       <mask>**</mask>
-      <mask>*</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>*le</mask>
+      <mask>*les</mask>
+      <mask>*less</mask>
     </recentFileMasks>
   </component>
 </application>
