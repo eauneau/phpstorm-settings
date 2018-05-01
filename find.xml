@@ -7,11 +7,8 @@
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
@@ -25,12 +22,10 @@
       <mask>*php</mask>
       <mask>**</mask>
       <mask>*.j</mask>
-      <mask>*.js</mask>
       <mask>*</mask>
       <mask>*le</mask>
       <mask>*les</mask>
       <mask>*less</mask>
-      <mask>*.*</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.ph</mask>
@@ -39,6 +34,11 @@
       <mask>*.less</mask>
       <mask>*.phpless</mask>
       <mask>*.php</mask>
+      <mask>*.*</mask>
+      <mask>*.*=</mask>
+      <mask>*.*=js</mask>
+      <mask>*.=js</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
