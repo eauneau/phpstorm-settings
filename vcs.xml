@@ -10,6 +10,10 @@
           <option name="url" value="ssh://git@numbertwo.1997media.com:/home/git/sites.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.1997media.com:/home/git/conf-php.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Sites" />
