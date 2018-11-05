@@ -7,7 +7,7 @@
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="beta.*.*" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -21,11 +21,11 @@
     <mask>www*.*</mask>
     <mask>*.class.php</mask>
     <mask>*.js</mask>
-    <mask>*.php</mask>
     <mask>dev.*.*</mask>
     <mask>layout*.*</mask>
     <mask>*.less</mask>
     <mask>*.*</mask>
     <mask>beta.*.*</mask>
+    <mask>*.php</mask>
   </component>
 </application>
